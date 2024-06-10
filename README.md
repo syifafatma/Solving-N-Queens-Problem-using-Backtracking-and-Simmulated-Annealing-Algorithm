@@ -1,4 +1,4 @@
-![N-Queens Problem_SA_BT](https://github.com/syifafatma/Solving-N-Queens-Problem-using-Backtracking-and-Simmulated-Annealing-Algorithm/assets/88698082/9a9e8608-e480-4e40-879e-cfb7afab17cf)# Solving N-Queen's Problem using Simulated Annealing and Backtracking Algorithm
+# Solving N-Queen's Problem using Simulated Annealing and Backtracking Algorithm
 ## What is the N-Queen's Problem?
 N-Queen's problem is an effort to find a placement of N Queens on an N by N chess board so that no two queens attack each other (neither at the same row, column, nor diagonal).
 These picure below are the example solution of N-Queen's problem when N=4
